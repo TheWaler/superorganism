@@ -3,6 +3,7 @@ title        = "Superorganism"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+relativeUrls = true
 
 [params]
   dateform        = "Jan 2, 2006"
