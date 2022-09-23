@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "/"
 title        = "Superorganism"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
