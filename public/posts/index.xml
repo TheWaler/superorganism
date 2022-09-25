@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Superorganism</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Superorganism</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Yes</copyright>
+        <lastBuildDate>Fri, 23 Sep 2022 16:42:59 +0100</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>/posts/hello-world/</link>
+            <pubDate>Fri, 23 Sep 2022 16:42:59 +0100</pubDate>
+            
+            <guid>/posts/hello-world/</guid>
+            <description>Welcome, friend I&amp;rsquo;m building a little place for myself on the internet. I&amp;rsquo;m not sure what I&amp;rsquo;ll do with it yet, but I&amp;rsquo;m sure I&amp;rsquo;ll figure it out. I did know that whatever I&amp;rsquo;ll build now, I&amp;rsquo;ll want to build it both as a space to share my thoughts as well as a ground for experimentation.
+Hopefully this will be it. A small blog, on the decentralised web.</description>
+            <content type="html"><![CDATA[<h2 id="welcome-friend">Welcome, friend</h2>
+<p>I&rsquo;m building a little place for myself on the internet. I&rsquo;m not sure what I&rsquo;ll do with it yet, but I&rsquo;m sure I&rsquo;ll figure it out. I did know that whatever I&rsquo;ll build now, I&rsquo;ll want to build it both as a space to share my thoughts as well as a ground for experimentation.</p>
+<p>Hopefully this will be it. A small blog, on the decentralised web.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
